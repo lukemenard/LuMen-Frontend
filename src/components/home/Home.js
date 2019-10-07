@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import './Home.css'
-import ExpertiseContainer from '../expertise/ExpertiseContainer'
 import Photo from '../../Assets/Luke2.JPG'
 import Timeline from 'react-timeline-semantic-ui';
 import ScrollAnimation from 'react-animate-on-scroll';

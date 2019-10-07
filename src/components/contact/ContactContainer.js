@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
-import ContactCardList from './ContactCardList'
 import './Contact.css'
 import Tree from '../../Assets/Tree.png'
-import { Button } from 'semantic-ui-react'
 
 export default class ContactContainer extends Component {
     render() {

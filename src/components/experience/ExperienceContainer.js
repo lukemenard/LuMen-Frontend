@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import ExperienceCardList from './ExperienceCardList'
-import Photo from '../../Assets/SL2.jpg'
 
 const experiencesURL = "https://lumen-backend.herokuapp.com/experiences"
 
