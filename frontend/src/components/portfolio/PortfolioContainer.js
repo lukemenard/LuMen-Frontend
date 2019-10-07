@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PortfolioCardList from './PortfolioCardList'
 import SearchBar from './SearchBar'
 
-const projectsURL = "http://localhost:3000/projects"
+const projectsURL = "https://lumen-backend.herokuapp.com/projects"
 
 export default class PortfolioContainer extends Component {
     

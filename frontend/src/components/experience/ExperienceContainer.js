@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import ExperienceCardList from './ExperienceCardList'
 import Photo from '../../Assets/SL2.jpg'
 
-const experiencesURL = "http://localhost:3000/experiences"
+const experiencesURL = "https://lumen-backend.herokuapp.com/experiences"
 
 export default class ExperienceContainer extends Component {
     state = {
